@@ -1,2 +1,2 @@
 # Flowers
-Сайт (PHP7 + HTML + JS + SCSS)
+Site (PHP7 + HTML + JS + SCSS)
